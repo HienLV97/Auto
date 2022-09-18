@@ -7,6 +7,7 @@ public class doing {
 		System.out.println("Done test hithub");	
 		System.out.println("done mac");
 		System.out.println();
+		System.out.println("Done win");
 	}
 
 }
