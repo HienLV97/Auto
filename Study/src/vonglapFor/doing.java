@@ -5,7 +5,8 @@ public class doing {
 		String a = "hi";
 		System.out.println("ascbasdvc");
 		System.out.println("Done test hithub");	
-		System.out.println(ye);
+		System.out.println("done mac");
+		System.out.println();
 	}
 
 }
